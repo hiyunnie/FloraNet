@@ -1,0 +1,6 @@
+../Core/Src/storage_service.c:25:17:Crc32	3
+../Core/Src/storage_service.c:32:13:AppendSample	7
+../Core/Src/storage_service.c:56:13:StorageTask	8
+../Core/Src/storage_service.c:86:6:StorageService_Init	3
+../Core/Src/storage_service.c:92:6:StorageService_Request	3
+../Core/Src/storage_service.c:99:10:StorageService_GetRecordCount	1

@@ -1,0 +1,3 @@
+../Core/Src/health_service.c:12:6:HealthService_Heartbeat	16	static
+../Core/Src/health_service.c:17:13:HealthTask	24	static
+../Core/Src/health_service.c:34:6:HealthService_Init	16	static

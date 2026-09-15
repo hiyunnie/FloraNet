@@ -1,0 +1,13 @@
+../Core/Src/app.c:35:6:App_Init	18
+../Core/Src/app.c:66:6:App_GetLatest	3
+../Core/Src/app.c:74:6:App_SetLatest	3
+../Core/Src/app.c:82:6:App_GetConfig	3
+../Core/Src/app.c:90:6:App_UpdateConfig	5
+../Core/Src/app.c:101:6:App_GetStatistics	2
+../Core/Src/app.c:102:18:App_StatisticsMutable	1
+../Core/Src/app.c:103:15:App_SHT3x	1
+../Core/Src/app.c:104:16:App_BH1750	1
+../Core/Src/app.c:105:22:App_Soil	1
+../Core/Src/app.c:106:16:App_Flash	1
+../Core/Src/app.c:107:21:App_Uart	1
+../Core/Src/app.c:108:6:App_UartRxCompleteISR	1

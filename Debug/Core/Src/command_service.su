@@ -1,0 +1,5 @@
+../Core/Src/command_service.c:19:13:PrintSensor	96	static
+../Core/Src/command_service.c:31:13:Execute	136	static
+../Core/Src/command_service.c:67:13:CommandTask	120	static
+../Core/Src/command_service.c:83:6:CommandService_Init	16	static
+../Core/Src/command_service.c:128:6:CommandService_RxCompleteISR	24	static,ignoring_inline_asm

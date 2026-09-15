@@ -1,0 +1,2 @@
+../Core/Src/sensor_service.c:12:13:SensorTask	12
+../Core/Src/sensor_service.c:77:6:SensorService_Init	1

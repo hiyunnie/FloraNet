@@ -1,0 +1,5 @@
+../Core/Src/uart_service.c:15:13:Enqueue	224	static
+../Core/Src/uart_service.c:28:6:UartService_Response	16	static
+../Core/Src/uart_service.c:32:6:UartService_Log	16	static
+../Core/Src/uart_service.c:37:13:UartTask	216	static
+../Core/Src/uart_service.c:50:6:UartService_Init	16	static

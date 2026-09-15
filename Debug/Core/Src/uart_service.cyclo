@@ -1,0 +1,5 @@
+../Core/Src/uart_service.c:15:13:Enqueue	4
+../Core/Src/uart_service.c:28:6:UartService_Response	1
+../Core/Src/uart_service.c:32:6:UartService_Log	1
+../Core/Src/uart_service.c:37:13:UartTask	3
+../Core/Src/uart_service.c:50:6:UartService_Init	4
